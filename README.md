@@ -64,12 +64,12 @@ To better identify defaulters, the classification threshold was optimized using 
 1.  Clone this repository to your local machine.
 2.  Install the required libraries using pip:
     `pip install -r requirements.txt`
-3.  Open and run the `notebook_submission__22112085.ipynb` file in a Jupyter environment.
+3.  Open and run the `notebook_submission__22115155.ipynb` file in a Jupyter environment.
 
 ---
 
 ## 📁 Files in This Repository
-* `notebook_submission__22112085.ipynb`: The main Jupyter Notebook with all analysis and modeling code.
+* `notebook_submission__22115155.ipynb`: The main Jupyter Notebook with all analysis and modeling code.
 * `Credit_Card_Default_Report_Summary.pdf`: A summary report of the project findings.
 * `train_dataset_final1.csv`: The training dataset.
 * `validate_dataset_final.csv`: The validation dataset for final predictions.
